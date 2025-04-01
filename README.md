@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am a student at NYU pursuing Finance and Risk Engineering <br>I am currently learning and exploring application of ML/DL in finance.<br>
+Hi, I am a student at NYU pursuing Finance and Risk Engineering <br>I am currently learning and exploring application of Mathematics & ML/DL in finance.<br>
 
 
 # 💻 Tech Stack:
